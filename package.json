@@ -1,0 +1,14 @@
+{
+  "name": "regex-ready",
+  "version": "1.0.0",
+  "description": "Prebuilt Regex Patterns ready for use. This library is used to recognize patterns.",
+
+  "main": "./dist/Regex/Regex.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["regex-ready", "regex", "ready", "prebuilt", "prebuilt regex", "patterns", "date", "time", "phone ","number", "email", "url", "domain", "domain name" ],
+  "author": "Anoch Jeyakanthan",
+  "license": "ISC"
+}
